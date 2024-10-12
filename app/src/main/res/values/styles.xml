@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom style for TabLayout text -->
+    <style name="CustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">18sp</item> <!-- Kích thước chữ -->
+        <item name="android:textStyle">bold</item> <!-- Kiểu chữ -->
+        <item name="android:textColor">@android:color/white</item> <!-- Màu chữ -->
+    </style>
+</resources>
